@@ -1,9 +1,9 @@
 # **MotoMoto**
 
 ## Twórcy: 
- **Mateusz Lemański 136276**
+ **Mateusz Lemański  136276**
  
- **Mateusz Kempa 139952**
+ **Mateusz Kempa     139952**
 
 ### Opis funkcjonalności projektu
 
